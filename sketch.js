@@ -11,6 +11,8 @@ var playerArrows = [];
 var computerArrows = [];
 
 //Declare the varibales to add 3 life for player and computerplayer
+var playerLife = 3;
+var computerLife  = 3;
 
 function preload() {
   //Load Image of background
